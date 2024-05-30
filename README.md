@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhinesh</h1>
-<h3 align="center">A A budding developer in the field of Artificial intelligence and Data science and always delighted to master the modern tools of the latest trend.</h3>
+<h3 align="center"> A budding developer in the field of Artificial intelligence and Data science and always delighted to master the modern tools of the latest trend.</h3>
 
 - 🌱 I’m currently learning **Javascript and machine learning**
 
