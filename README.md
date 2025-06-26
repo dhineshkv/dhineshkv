@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dhinesh</h1>
 <h3 align="center"> A budding developer in the field of Artificial intelligence and Data science and always delighted to master the modern tools of the latest trend.</h3>
 
-- 🌱 I’m currently learning **Javascript and machine learning**
+- 🌱 I’m currently learning **SQL**
 
-- 📫 How to reach me **dhineshk@ieee.org**
+- 📫 How to reach me **dhineshkannanv23@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
