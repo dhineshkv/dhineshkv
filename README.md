@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhinesh</h1>
 <h3 align="center"> A budding developer in the field of Artificial intelligence and Data science and always delighted to master the modern tools of the latest trend.</h3>
 
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently exploring **DBMS**
 
 - 📫 How to reach me **dhineshkannanv23@gmail.com**
 
