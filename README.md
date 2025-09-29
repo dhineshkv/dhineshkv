@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhinesh Kannan</h1>
 <h3 align="center">Data Analytics & Business Intelligence support.</h3>
 
-- 🔭 I’m currently working on **DBMS & DEVOPS**
+- 🔭 I’m currently learning **DBMS & DEVOPS**
 
 - 📫 How to reach me **dhineshkannanv23@gmail.com**
 
